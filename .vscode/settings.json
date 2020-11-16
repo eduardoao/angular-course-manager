@@ -1,7 +1,7 @@
 {
-  "staticWebApps.appSubpath": "dist/course-manager",
-  "staticWebApps.apiSubpath": "src/assets",
-  "staticWebApps.appArtifactSubpath": "/dist/coure-manager-build",
+  "staticWebApps.appSubpath": "/",
+  "staticWebApps.apiSubpath": "server",
+  "staticWebApps.appArtifactSubpath": "/dist/coure-manager",
   "azureFunctions.deploySubpath": "src\\assets",
   "azureFunctions.postDeployTask": "npm install",
   "azureFunctions.projectLanguage": "TypeScript",
